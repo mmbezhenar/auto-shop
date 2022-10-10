@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "title": "Toyota",
+      "price": "10550",
+      "year": "2017",
+      "image": "assets/images/car.jpeg",
+      "configure": {
+        "mileage": "156987",
+        "owner": "Maxim Bezhenar",
+        "color": "Silver",
+        "class": "B"
+      }
+    }
+  ],
+  "basket": [
+    {
+      "id": 3,
+      "title": "Toyota",
+      "price": "10550",
+      "year": "2017",
+      "image": "assets/images/car.jpeg",
+      "configure": {
+        "mileage": "156987",
+        "owner": "Maxim Bezhenar",
+        "color": "Silver",
+        "class": "B"
+      },
+      "quantity": 1
+    }
+  ]
+}
